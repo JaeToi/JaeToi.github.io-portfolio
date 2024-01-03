@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.470eb037.css",
+    "main.js": "/portfolio/static/js/main.7fa818b4.js",
+    "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/One_Coin_Sum.png": "/portfolio/static/media/One_Coin_Sum.f6ddd04bf50d1b1d4664.png",
+    "static/media/JaeDong.jpg": "/portfolio/static/media/JaeDong.6ebf0c8f387f70b76bce.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.470eb037.css.map": "/portfolio/static/css/main.470eb037.css.map",
+    "main.7fa818b4.js.map": "/portfolio/static/js/main.7fa818b4.js.map",
+    "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.470eb037.css",
+    "static/js/main.7fa818b4.js"
+  ]
+}
